@@ -1,0 +1,87 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Page"
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    }
+  },
+  "exbVersion": "1.20.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/master/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/IV-Widget/",
+      "version": "1.15.0",
+      "label": "EagleView Imagery",
+      "config": {
+        "exbWidgetVersion": "Experience Builder V3.0.0",
+        "apiKey": "a854a6b2-cd8a-4c9a-9753-012f128a8688"
+      },
+      "id": "widget_1"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://UmatillaCoGIS.maps.arcgis.com"
+  },
+  "timestamp": 1780587634817,
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {}
+  },
+  "mainLocale": "en",
+  "dataSources": {},
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ]
+}
