@@ -18,7 +18,7 @@
       "content": {
         "0": {
           "type": "WIDGET",
-          "widgetId": "widget_1",
+          "widgetId": "widget_2",
           "bbox": {
             "left": "0.0%",
             "right": "0.0%",
@@ -33,9 +33,7 @@
               "right": false,
               "top": true,
               "bottom": false
-            },
-            "vCenter": false,
-            "hCenter": false
+            }
           }
         }
       },
@@ -52,15 +50,14 @@
   },
   "template": "blankfullscreen",
   "widgets": {
-    "widget_1": {
+    "widget_2": {
       "uri": "widgets/IV-Widget/",
       "version": "1.15.0",
       "label": "EagleView Imagery",
       "config": {
-        "exbWidgetVersion": "Experience Builder V3.0.0",
-        "apiKey": "a854a6b2-cd8a-4c9a-9753-012f128a8688"
+        "exbWidgetVersion": "Experience Builder V3.0.0"
       },
-      "id": "widget_1"
+      "id": "widget_2"
     }
   },
   "widgetsManifest": {},
@@ -78,7 +75,7 @@
     "type": "Web Experience",
     "thumbnail": null
   },
-  "timestamp": 1780589793968,
+  "timestamp": 1780590294082,
   "sharedThemeVariables": {
     "header": {},
     "body": {},
@@ -91,5 +88,5 @@
       "page_0": []
     }
   ],
-  "publishTimestamp": 1780589801015
+  "publishTimestamp": 1780590409938
 }
