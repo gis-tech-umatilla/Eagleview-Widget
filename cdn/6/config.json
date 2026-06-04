@@ -66,9 +66,16 @@
   "dialogs": {},
   "messageConfigs": {},
   "attributes": {
-    "portalUrl": "https://UmatillaCoGIS.maps.arcgis.com"
+    "portalUrl": "https://UmatillaCoGIS.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "02JP5R5wS2OvpvNL",
+    "express": false,
+    "title": "Untitled experience 1",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
   },
-  "timestamp": 1780590294082,
+  "timestamp": 1780591695456,
   "sharedThemeVariables": {
     "header": {},
     "body": {},
@@ -80,5 +87,6 @@
     {
       "page_0": []
     }
-  ]
+  ],
+  "publishTimestamp": 1780591696390
 }
